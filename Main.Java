@@ -1,7 +1,10 @@
-
-public class Main {
-    public static void main(String[] args) {
-        int number = 10;
-        System.out.println(number);
+public class Main{
+    public static  void main(String[] args){
+        int a = 15;
+        System.out.println("Welcome to AUCA");
+        System.out.println("we wish you to feel happy");
+        System.out.println(a);
+        Calc calculator = new Calc();
+        calculator.Add();
     }
 }
