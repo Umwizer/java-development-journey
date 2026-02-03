@@ -1,4 +1,4 @@
-package datatype;
+package java.datatype;
 import java.util.Scanner;
 
 public class DAY2 {

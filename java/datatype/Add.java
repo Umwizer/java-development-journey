@@ -1,3 +1,4 @@
+package java.datatype;
 import java.util.Scanner;
 // add two numbers using Java
 

@@ -1,4 +1,6 @@
 
+
+package java.datatype;
 //calculator class
 import java.util.Scanner;
 public class Calc{

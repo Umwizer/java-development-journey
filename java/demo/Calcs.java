@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Calc{
+public class Calcs{
     public void Add (){
         int a,b,sum;
         try (Scanner input = new Scanner(System.in)) {
