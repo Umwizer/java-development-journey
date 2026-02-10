@@ -1,6 +1,6 @@
-package oop.student;
+    package oop.student;
 
-public class Department {
-    Student st;
-   
-}
+    public class Department {
+        Student st;
+    
+    }
