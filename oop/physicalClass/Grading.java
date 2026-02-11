@@ -4,7 +4,7 @@
 //e from 50-59
 //f fail
 
-package oop.physicalClass;
+
 
 import java.util.Scanner;
 

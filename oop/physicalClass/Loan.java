@@ -3,7 +3,7 @@
 //below 500k he is getting 10 times but on 5%
 //above 1000k - 2000k he is geetting 15 times but on 2%
 //above 2000k 
-package oop.physicalClass;
+
 
 import java.util.Scanner;
 

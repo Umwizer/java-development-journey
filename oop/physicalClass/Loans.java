@@ -1,4 +1,4 @@
-package oop.physicalClass;
+
 
 import java.util.Scanner;
 
